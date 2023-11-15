@@ -15,6 +15,8 @@
 * [🎨 Diseño UX](doc.-tecnico-y-admin./diseno-ux/README.md)
   * [Componentes](doc.-tecnico-y-admin./diseno-ux/componentes.md)
   * [Botones](doc.-tecnico-y-admin./diseno-ux/botones.md)
+* [💻 Que es un XLSForm?](doc.-tecnico-y-admin./que-es-un-xlsform.md)
+* [🌠 using dynamicforms](doc.-tecnico-y-admin./using-dynamicforms.md)
 
 ## Modelo de datos
 
