@@ -25,3 +25,5 @@ encontraras campos como Nombre postulante, identificación, Nombre del proyecto,
 <figure><img src="../.gitbook/assets/Captura de pantalla 2024-01-11 135057.png" alt=""><figcaption></figcaption></figure>
 
 despues de completada la información el proyecto pasa por un proceso en el cual se le asignará un validador para que revise, estudie y complemente tu proyecto, dandole valor y calculando la cantidad de tokens y valor que podrian tener cada uno, ademas del retorno y demas variables financieras y tecnicas para tu proyecto, toda esta información debes revisarla y aceptarla para que el proyecto sea publicado en el market place&#x20;
+
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
