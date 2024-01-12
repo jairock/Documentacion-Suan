@@ -10,6 +10,7 @@
 
 * [💻 Instalación Extensión Eternl](guias/instalacion-extension-eternl.md)
 * [💰 Creación de Wallet](guias/creacion-de-wallet.md)
+* [¿Como subo mi proyecto?](guias/como-subo-mi-proyecto.md)
 
 ## REFERENCIAS
 
